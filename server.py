@@ -23,7 +23,7 @@ except IOError:
 #print('\n')
 
 host = '127.0.0.1' #localhost
-port = 64352
+port = 64352 #randomport
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server.bind((host, port))
