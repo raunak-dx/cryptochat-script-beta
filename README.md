@@ -2,7 +2,7 @@
 
 Disclaimer : Use Unix-like OS for best results
 
-Description : TCP Socket Chat Application (Beta Version)
+Description : TCP Server Chat Application (Beta Version)
 
 1. Install requirements.txt to install necessary packages [python3 -m pip install -r requirements.txt] 
 
