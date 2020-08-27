@@ -22,7 +22,7 @@ except IOError:
 #print('\n')
 
 host = '127.0.0.1' #localhost
-port = 64352
+port = 64352 #randomport
 
 username = input(color1 + '\nEnter a username : ' + reset)
 
