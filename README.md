@@ -10,7 +10,7 @@ Description : TCP socket Chat Application (Beta Version)
 
 3. Run client.py to run client side and join the server [python3 client.py]
 
-4. Type 'exit' or 'Exit' or 'EXIT' to quit chat and leave the server
+4. Type 'Exit' or 'exit' or 'EXIT' to quit chat and leave the server
 
 TCP Architecture :
 
