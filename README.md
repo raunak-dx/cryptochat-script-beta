@@ -1,6 +1,6 @@
 # cryptochat-server-beta
 
-Disclaimer : [USE UNIX-LIKE OS FOR BEST RESULTS]
+Disclaimer : Use Unix-like OS for best results
 
 Description : TCP socket Chat Application 
 
