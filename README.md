@@ -1,4 +1,4 @@
-# cryptochat-server-beta
+# cryptochat-script-beta
 
 Disclaimer : Use Unix-like OS for best results
 
