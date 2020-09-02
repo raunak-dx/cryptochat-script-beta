@@ -1,4 +1,4 @@
-# cryptochat-script-beta
+# cryptochat-server-beta
 
 Disclaimer : Use Unix-like OS for best results
 
@@ -10,9 +10,9 @@ Description : TCP Server Chat Application (Beta Version)
 
 3. Run client.py to run client side and join the server [python3 client.py]
 
-4. Group chat (text-only) with any number of clients connected to the server
+4. Group chat (text-only) with clients active in the server
 
-5. Type 'Exit' or 'exit' or 'EXIT' to quit chat and leave the server
+5. Type [Exit] or [exit] or [EXIT] to quit chat and leave the server
 
 TCP Architecture :
 
