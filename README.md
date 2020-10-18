@@ -1,6 +1,6 @@
 # cryptochat-server
 
-Description : TCP Server Chat Application (beta version)
+Description : TCP Server Chat Application (beta)
 
 Disclaimer : Make sure you have Python3 installed in your System
 
