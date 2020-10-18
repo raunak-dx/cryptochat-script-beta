@@ -1,4 +1,4 @@
-# cryptochat-server-beta
+# cryptochat-server
 
 Description : TCP Server Chat Application (beta version)
 
