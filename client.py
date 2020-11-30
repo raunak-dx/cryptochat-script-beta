@@ -16,13 +16,13 @@ try:
 except IOError:
 	print('\nBanner File not found!')
 
-#host = input(color1 + '\nEnter server IP: ' + reset)
-#print('\n')
-#port = int(input(color1 + 'Enter TCP port no.: ' + reset))
-#print('\n')
+host = input(color1 + '\nEnter server IP: ' + reset)
+print('\n')
+port = int(input(color1 + 'Enter TCP port no.: ' + reset))
+print('\n')
 
-host = '127.0.0.1' #localhost
-port = 64352 #randomport
+#host = '127.0.0.1'
+#port = 64352 
 
 username = input(color1 + '\nEnter a username : ' + reset)
 
