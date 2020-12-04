@@ -33,7 +33,7 @@ client.connect((host, port))
 def receive():
     while True:
         try:
-            message = client.recv(1024).decode('utf-8')
+            message = client.recv(1024).decode('utf-8') 
             if (message == 'USERNAME'):
                 client.send(username.encode('utf-8'))
             else:
