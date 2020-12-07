@@ -14,7 +14,7 @@
 
 4. Group chat (text-only) with clients active in the server
 
-5. Type [**Exit**] or [**exit**] or [**EXIT**] to quit chat and leave the server
+5. Type [**Exit**] or [**exit**] or [**EXIT**] to leave chat and quit the server
 
 **TCP Architecture** :
 
