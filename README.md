@@ -18,4 +18,4 @@
 
 **TCP Architecture** :
 
-![](tcp_architecture.png)
+![](tcp_architecture.png) 
