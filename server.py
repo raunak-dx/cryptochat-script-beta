@@ -89,5 +89,3 @@ def receive():
 print(color1 + '\nWelcome to the server!!!\n' + reset)
 print(color1 + '\nServer is active and listening......!!!\n' + reset)
 receive()
-
-
