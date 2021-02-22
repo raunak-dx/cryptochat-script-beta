@@ -8,7 +8,7 @@
 
 1. Install requirements.txt to install necessary packages [**$ python3 -m pip install -r requirements.txt**] 
 
-2. Run server.py to run server side and start the server [**$ python3 server.py**]
+2. Run server.py to run server side and start the server [**$ python3 server.py**] (Don't forget to edit host and port)
 
 3. Run client.py to run client side and join the server [**$ python3 client.py**]
 
