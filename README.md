@@ -1,6 +1,6 @@
 # cryptochat-server
 
-**Description** : TCP Server-Client Chat Application
+**Description** : TCP Socket Server-Client Chat Application
 
 **Requisite** : Make sure you have Python3 and Pip installed in your System
 
