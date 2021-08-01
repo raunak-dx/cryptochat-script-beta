@@ -9,7 +9,7 @@ color3 = fg('yellow')
 reset = attr('reset')
 
 try:
-	file1 = open('server.txt', 'r')
+	file1 = open('server-header.txt', 'r')
 	print(' ')
 	print (color3 + file1.read() + reset)
 	file1.close()
